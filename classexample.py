@@ -3,6 +3,7 @@ import random
 
 class Point:
     # all classes need to have an init method
+    #we are inheriting from object, base class of python
     def __init__(self, x, y):
         """
         Init method that initializes the point with X and Y
